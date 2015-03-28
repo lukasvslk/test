@@ -11,3 +11,5 @@
 	
 	// this is error
 	echo $prom * $prom;
+	
+	$thisChange = 'made in KDE';
