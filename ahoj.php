@@ -8,6 +8,9 @@
 	$nextChange = array();
 
 
+
+	$ahoj;
+
 	
 	// this is error
 	echo $prom * $prom;
