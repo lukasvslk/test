@@ -4,13 +4,9 @@
 
 	$prom = 2;
 
-
 	$nextChange = array();
 
-
-
 	$ahoj;
-
 	
 	// this is error
 	echo $prom * $prom;
