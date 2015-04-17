@@ -90,4 +90,4 @@ while (my $filename = readdir(DIR))
 closedir(DIR);
 
 =CHANGELOG
-2015-05-17	New module rename by regex.
+2015-04-17	New module rename by regex.
